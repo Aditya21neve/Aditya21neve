@@ -1,3 +1,18 @@
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aditya21neve&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya21neve&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya21neve&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Add these lines to display total commits, contributions, and current streak -->
+![Total Commits](https://github-readme-stats.vercel.app/api?username=Aditya21neve&show_icons=true&hide_border=true&hide=prs&count_private=true&include_all_commits=true&theme=default&bg_color=45,fc00ff,00dbde)
+![Contributions](https://github-readme-stats.vercel.app/api?username=Aditya21neve&count_private=true&show_icons=true&hide_border=true&hide=prs,issues&include_all_commits=true&theme=default&bg_color=45,fc00ff,00dbde)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya21neve&theme=default&hide_border=false&background=FFFFFF&stroke=0000)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aditya21neve&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on Ressurected-Bird<br>👯 I’m looking to collaborate on opensource Project<br>🌱 I’m currently learning C++<br>💬 Ask me about webdevelopment<br>⚡ Fun fact It’s all 0’s and 1’s
 
