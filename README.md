@@ -1,19 +1,3 @@
-# 📊 GitHub Stats:
-![Total Commits](https://img.shields.io/github/commit-activity/m/Aditya21neve/Aditya21neve?label=Total%20Commits&style=for-the-badge)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya21neve&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya21neve&theme=default&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya21neve&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Add these lines to display total commits, contributions, and current streak -->
-![Total Commits](https://img.shields.io/github/commit-activity/m/Aditya21neve/Aditya21neve?label=Total%20Commits&style=for-the-badge)
-![Contributions](https://img.shields.io/github/last-commit/Aditya21neve/Aditya21neve?label=Contributions&style=for-the-badge)
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya21neve&theme=default&hide_border=false&background=FFFFFF&stroke=0000)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aditya21neve&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 # 💫 About Me:
 🔭 I’m currently working on Ressurected-Bird<br>👯 I’m looking to collaborate on opensource Project<br>🌱 I’m currently learning C++<br>💬 Ask me about webdevelopment<br>⚡ Fun fact It’s all 0’s and 1’s
 
