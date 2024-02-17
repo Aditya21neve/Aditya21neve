@@ -3,9 +3,6 @@
 ![Contributions](https://github-readme-stats.vercel.app/api?username=Aditya21neve&count_private=true&show_icons=true&hide_border=true&hide=prs,issues&include_all_commits=true&theme=default&bg_color=45,fc00ff,00dbde)
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya21neve&theme=default&hide_border=false&background=FFFFFF&stroke=0000)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aditya21neve&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 
 # 💫 About Me:
