@@ -1,8 +1,3 @@
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya21neve&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya21neve&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <!-- Add these lines to display total commits, contributions, and current streak -->
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=Aditya21neve&show_icons=true&hide_border=true&hide=prs&count_private=true&include_all_commits=true&theme=default&bg_color=45,fc00ff,00dbde)
 ![Contributions](https://github-readme-stats.vercel.app/api?username=Aditya21neve&count_private=true&show_icons=true&hide_border=true&hide=prs,issues&include_all_commits=true&theme=default&bg_color=45,fc00ff,00dbde)
