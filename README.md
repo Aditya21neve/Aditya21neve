@@ -1,4 +1,6 @@
 # 📊 GitHub Stats:
+![Total Commits](https://img.shields.io/github/commit-activity/m/Aditya21neve/Aditya21neve?label=Total%20Commits&style=for-the-badge)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya21neve&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya21neve&theme=default&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya21neve&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
